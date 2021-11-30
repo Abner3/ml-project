@@ -1,6 +1,9 @@
 # Air Quality Dataset - Download from Google Cloud Storage
 dataset/
 
+# Pycharm
+.idea/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
